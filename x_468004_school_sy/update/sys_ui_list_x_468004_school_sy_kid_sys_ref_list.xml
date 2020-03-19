@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_468004_school_sy_kid" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_468004_school_sy_kid" element="NULL" name="x_468004_school_sy_kid" parent="NULL" relationship="NULL" sys_domain="global" view="e6ef31412f130010bae3ff1df699b66c">1431f0662f6b4010bae3ff1df699b621</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:37:56</sys_created_on>
+            <sys_id>5031f0662f6b4010bae3ff1df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:37:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_468004_school_sy_kid</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:37:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1431f0662f6b4010bae3ff1df699b621</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_468004_school_sy_kid</sys_name>
+            <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+            <sys_update_name>sys_ui_list_x_468004_school_sy_kid_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:37:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">e6ef31412f130010bae3ff1df699b66c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

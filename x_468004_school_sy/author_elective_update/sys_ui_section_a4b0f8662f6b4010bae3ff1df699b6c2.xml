@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Marks" section_id="a4b0f8662f6b4010bae3ff1df699b6c2" sys_domain="global" table="x_468004_school_sy_marks" version="3" view="Student_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>english</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:35:47</sys_created_on>
+            <sys_id>60b0f8662f6b4010bae3ff1df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Marks" display_value="Marks" name="x_468004_school_sy_marks" sys_domain="global" view="2cb0f8662f6b4010bae3ff1df699b666">a4b0f8662f6b4010bae3ff1df699b6c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:35:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>arabic</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:35:47</sys_created_on>
+            <sys_id>e0b0f8662f6b4010bae3ff1df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Marks" display_value="Marks" name="x_468004_school_sy_marks" sys_domain="global" view="2cb0f8662f6b4010bae3ff1df699b666">a4b0f8662f6b4010bae3ff1df699b6c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:35:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mathematics</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:35:47</sys_created_on>
+            <sys_id>64b0f8662f6b4010bae3ff1df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Marks" display_value="Marks" name="x_468004_school_sy_marks" sys_domain="global" view="2cb0f8662f6b4010bae3ff1df699b666">a4b0f8662f6b4010bae3ff1df699b6c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:35:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Marks</caption>
+            <header>false</header>
+            <name>x_468004_school_sy_marks</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:35:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4b0f8662f6b4010bae3ff1df699b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Marks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+            <sys_update_name>sys_ui_section_a4b0f8662f6b4010bae3ff1df699b6c2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:35:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Student View" name="Student_View">2cb0f8662f6b4010bae3ff1df699b666</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="School System">08969b712fe30010bae3ff1df699b6d5</application>
+        <file_path/>
+        <instance_id>2eec12d5db6b97004c1ff70fbf9619c4</instance_id>
+        <instance_name>dev67257</instance_name>
+        <name>sys_ui_section_a4b0f8662f6b4010bae3ff1df699b6c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Marks" section_id="a4b0f8662f6b4010bae3ff1df699b6c2" sys_domain="global" table="x_468004_school_sy_marks" version="3" view="Student_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>english</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:35:47</sys_created_on><sys_id>60b0f8662f6b4010bae3ff1df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Marks" display_value="Marks" name="x_468004_school_sy_marks" sys_domain="global" view="2cb0f8662f6b4010bae3ff1df699b666">a4b0f8662f6b4010bae3ff1df699b6c2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:35:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>arabic</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:35:47</sys_created_on><sys_id>e0b0f8662f6b4010bae3ff1df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Marks" display_value="Marks" name="x_468004_school_sy_marks" sys_domain="global" view="2cb0f8662f6b4010bae3ff1df699b666">a4b0f8662f6b4010bae3ff1df699b6c2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:35:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>mathematics</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:35:47</sys_created_on><sys_id>64b0f8662f6b4010bae3ff1df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Marks" display_value="Marks" name="x_468004_school_sy_marks" sys_domain="global" view="2cb0f8662f6b4010bae3ff1df699b666">a4b0f8662f6b4010bae3ff1df699b6c2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:35:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Marks</caption><header>false</header><name>x_468004_school_sy_marks</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:35:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a4b0f8662f6b4010bae3ff1df699b6c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Marks</sys_name><sys_overrides/><sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package><sys_policy/><sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope><sys_update_name>sys_ui_section_a4b0f8662f6b4010bae3ff1df699b6c2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:35:47</sys_updated_on><sys_user/><title>false</title><view display_value="Student View" name="Student_View">2cb0f8662f6b4010bae3ff1df699b666</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1662803476</payload_hash>
+        <record_name>Marks</record_name>
+        <reverted_from/>
+        <source>ee471b712fe30010bae3ff1df699b671</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 08:35:47</sys_created_on>
+        <sys_id>2cb0f8662f6b4010bae3ff1df699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170e7a26f7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 08:35:47</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a4b0f8664c6b40106bb75dcf9d11e3d0</update_guid>
+        <update_guid_history>a4b0f8664c6b40106bb75dcf9d11e3d0:1662803476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 13:24:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1e1c061be5284518944f5c638351e904</sys_id>
+        <sys_metadata>a4b0f8662f6b4010bae3ff1df699b6c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marks</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_parent display_value="Marks">790ea8a22f6b4010bae3ff1df699b64c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_scope_delete display_value="">3b2a51b679ed41208f25be23162002a4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a4b0f8662f6b4010bae3ff1df699b6c2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a4b0f8662f6b4010bae3ff1df699b6c2">2cb0f8662f6b4010bae3ff1df699b6d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 13:24:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

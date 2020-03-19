@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_468004_school_sy_has_car" label="Has Car" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_468004_school_sy_has_car</element>
+            <help/>
+            <hint/>
+            <label>Has Car</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>Has Cars</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-15 13:11:39</sys_created_on>
+            <sys_id>92ac9f752fe30010bae3ff1df699b664</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Has Car</sys_name>
+            <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_468004_school_sy_has_car_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-15 13:11:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

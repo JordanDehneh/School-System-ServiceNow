@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Marks" max_length="40" name="x_468004_school_sy_marks" sizeclass="2" type="collection">
+        <element label="Arabic" mandatory="true" max_length="40" name="arabic" type="integer"/>
+        <element label="Average" max_length="40" name="average" read_only="true" type="integer"/>
+        <element label="English" mandatory="true" max_length="40" name="english" type="integer"/>
+        <element display="true" label="Kid" mandatory="true" max_length="32" name="kid" reference="x_468004_school_sy_kid" type="reference"/>
+        <element label="Mathematics" mandatory="true" max_length="40" name="mathematics" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Result" max_length="10" name="result" read_only="true" type="string"/>
+        <element attributes="encode_utf8=false" label="Kid 2" mandatory="true" max_length="32" name="u_reference_2" reference="x_468004_school_sy_kid" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="u_reference_2"/>
+        </index>
+        <index name="index2">
+            <element name="kid"/>
+        </index>
+    </element>
+</database>

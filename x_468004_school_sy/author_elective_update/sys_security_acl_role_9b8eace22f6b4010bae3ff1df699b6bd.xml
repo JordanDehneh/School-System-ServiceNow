@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 08:26:24</sys_created_on>
+        <sys_id>9b8eace22f6b4010bae3ff1df699b6bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_468004_school_sy_marks.x_468004_school_sy.marks_user</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_security_acl display_value="x_468004_school_sy_marks">1f8eace22f6b4010bae3ff1df699b6ba</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9b8eace22f6b4010bae3ff1df699b6bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 08:26:24</sys_updated_on>
+        <sys_user_role display_value="x_468004_school_sy.marks_user" name="x_468004_school_sy.marks_user">cb8e68e22f6b4010bae3ff1df699b6fd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="School System">08969b712fe30010bae3ff1df699b6d5</application>
+        <file_path/>
+        <instance_id>2eec12d5db6b97004c1ff70fbf9619c4</instance_id>
+        <instance_name>dev67257</instance_name>
+        <name>sys_security_acl_role_9b8eace22f6b4010bae3ff1df699b6bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:26:24</sys_created_on><sys_id>9b8eace22f6b4010bae3ff1df699b6bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_468004_school_sy_marks.x_468004_school_sy.marks_user</sys_name><sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package><sys_policy/><sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope><sys_security_acl display_value="x_468004_school_sy_marks">1f8eace22f6b4010bae3ff1df699b6ba</sys_security_acl><sys_update_name>sys_security_acl_role_9b8eace22f6b4010bae3ff1df699b6bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:26:24</sys_updated_on><sys_user_role display_value="x_468004_school_sy.marks_user" name="x_468004_school_sy.marks_user">cb8e68e22f6b4010bae3ff1df699b6fd</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-769073081</payload_hash>
+        <record_name>x_468004_school_sy_marks.x_468004_school_sy.marks_user</record_name>
+        <reverted_from/>
+        <source>ee471b712fe30010bae3ff1df699b671</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 08:26:24</sys_created_on>
+        <sys_id>538eace22f6b4010bae3ff1df699b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170e799da850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 08:26:24</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>9b8eace2ed6b4010ae4f6f3cd2e4d2bf</update_guid>
+        <update_guid_history>9b8eace2ed6b4010ae4f6f3cd2e4d2bf:-769073081</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_468004_school_sy_marks.x_468004_school_sy.marks_user">a3950bf62f630010bae3ff1df699b631</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 14:04:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>81f01aaa443c4972b5837f040d673909</sys_id>
+        <sys_metadata>9b8eace22f6b4010bae3ff1df699b6bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_468004_school_sy_marks.x_468004_school_sy.marks_user</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_parent display_value="x_468004_school_sy_marks">1f8eace22f6b4010bae3ff1df699b6ba</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_scope_delete display_value="">3b2a51b679ed41208f25be23162002a4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9b8eace22f6b4010bae3ff1df699b6bd</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9b8eace22f6b4010bae3ff1df699b6bd">538eace22f6b4010bae3ff1df699b6c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 14:04:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

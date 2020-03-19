@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>parent</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_468004_school_sy_parent</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 12:56:43</sys_created_on>
+        <sys_id>888757b12fe30010bae3ff1df699b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parent</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_update_name>sys_db_object_888757b12fe30010bae3ff1df699b644</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 12:56:43</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_468004_school_sy.parent_user" name="x_468004_school_sy.parent_user">d33953f12fe30010bae3ff1df699b6f8</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="School System">08969b712fe30010bae3ff1df699b6d5</application>
+        <file_path/>
+        <instance_id>2eec12d5db6b97004c1ff70fbf9619c4</instance_id>
+        <instance_name>dev67257</instance_name>
+        <name>sys_db_object_888757b12fe30010bae3ff1df699b644</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>parent</label><live_feed_enabled>false</live_feed_enabled><name>x_468004_school_sy_parent</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-15 12:56:43</sys_created_on><sys_id>888757b12fe30010bae3ff1df699b644</sys_id><sys_mod_count>0</sys_mod_count><sys_name>parent</sys_name><sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package><sys_policy/><sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope><sys_update_name>sys_db_object_888757b12fe30010bae3ff1df699b644</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-15 12:56:43</sys_updated_on><update_access>false</update_access><user_role display_value="x_468004_school_sy.parent_user" name="x_468004_school_sy.parent_user">d33953f12fe30010bae3ff1df699b6f8</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-940757593</payload_hash>
+        <record_name>parent</record_name>
+        <reverted_from/>
+        <source>ee471b712fe30010bae3ff1df699b671</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 12:56:44</sys_created_on>
+        <sys_id>fb391bf12fe30010bae3ff1df699b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170de44a2240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 12:56:44</sys_updated_on>
+        <type>Table</type>
+        <update_guid>37391bf160e300105dfc3477add25ce5</update_guid>
+        <update_guid_history>37391bf160e300105dfc3477add25ce5:-940757593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 13:18:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>1a6b26a905294f00aa9872a0c78cab10</sys_id>
+        <sys_metadata>888757b12fe30010bae3ff1df699b644</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parent</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_scope_delete display_value="">3b2a51b679ed41208f25be23162002a4</sys_scope_delete>
+        <sys_update_name>sys_db_object_888757b12fe30010bae3ff1df699b644</sys_update_name>
+        <sys_update_version display_value="sys_db_object_888757b12fe30010bae3ff1df699b644">fb391bf12fe30010bae3ff1df699b6e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 13:18:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

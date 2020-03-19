@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_468004_school_sy_kid">how_does_he_she_go_to_school=bus^EQ<item display_value="Bus" endquery="false" field="how_does_he_she_go_to_school" goto="false" newquery="false" operator="=" or="false" value="bus"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+	g_form.setDisplay('u_area_1', false);
+	g_form.setVisible('u_area_1', false);
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	g_form.setDisplay('u_area_1', true);
+	g_form.setVisible('u_area_1', true);
+}]]></script_true>
+        <set_values/>
+        <short_description>Hide Area field based on "how does he/she goes to school"</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 14:01:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0b7237d2fe30010bae3ff1df699b6f8</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Hide Area field based on "how does he/she goes to school"</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_update_name>sys_ui_policy_e0b7237d2fe30010bae3ff1df699b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 14:34:48</sys_updated_on>
+        <table>x_468004_school_sy_kid</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="has_car" table="x_468004_school_sy_parent">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Has Car</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>has_car</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_468004_school_sy_parent</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 12:56:42</sys_created_on>
+        <sys_id>c8b8d7712fe30010bae3ff1df699b687</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Has Car</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_update_name>sys_dictionary_x_468004_school_sy_parent_has_car</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 12:56:42</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="School System">08969b712fe30010bae3ff1df699b6d5</application>
+        <file_path/>
+        <instance_id>2eec12d5db6b97004c1ff70fbf9619c4</instance_id>
+        <instance_name>dev67257</instance_name>
+        <name>sys_dictionary_x_468004_school_sy_parent_has_car</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="has_car" table="x_468004_school_sy_parent"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Has Car&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;true&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;has_car&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;boolean&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_468004_school_sy_parent&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-03-15 12:56:42&lt;/sys_created_on&gt;&lt;sys_id&gt;c8b8d7712fe30010bae3ff1df699b687&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Has Car&lt;/sys_name&gt;&lt;sys_package display_value="School System" source="x_468004_school_sy"&gt;08969b712fe30010bae3ff1df699b6d5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="School System"&gt;08969b712fe30010bae3ff1df699b6d5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_468004_school_sy_parent_has_car&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-03-15 12:56:42&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>820110309</payload_hash>
+        <record_name>x_468004_school_sy_parent.has_car</record_name>
+        <reverted_from/>
+        <source>ee471b712fe30010bae3ff1df699b671</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 12:56:43</sys_created_on>
+        <sys_id>1b391bf12fe30010bae3ff1df699b67e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170de449b520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 12:56:43</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>53391bf149e30010dd75d54ce2647a7e</update_guid>
+        <update_guid_history>53391bf149e30010dd75d54ce2647a7e:820110309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 13:18:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>4cddbd394169425e817b9b5ac89ddd49</sys_id>
+        <sys_metadata>c8b8d7712fe30010bae3ff1df699b687</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Has Car</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_parent display_value="">888757b12fe30010bae3ff1df699b644</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_scope_delete display_value="">3b2a51b679ed41208f25be23162002a4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_468004_school_sy_parent_has_car</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_468004_school_sy_parent_has_car">1b391bf12fe30010bae3ff1df699b67e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 13:18:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Student_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 08:35:46</sys_created_on>
+        <sys_id>2cb0f8662f6b4010bae3ff1df699b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student View</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_update_name>sys_ui_view_2cb0f8662f6b4010bae3ff1df699b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 08:35:46</sys_updated_on>
+        <title>Student View</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="School System">08969b712fe30010bae3ff1df699b6d5</application>
+        <file_path/>
+        <instance_id>2eec12d5db6b97004c1ff70fbf9619c4</instance_id>
+        <instance_name>dev67257</instance_name>
+        <name>sys_ui_view_2cb0f8662f6b4010bae3ff1df699b666</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>Student_View</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:35:46</sys_created_on><sys_id>2cb0f8662f6b4010bae3ff1df699b666</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Student View</sys_name><sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package><sys_policy/><sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope><sys_update_name>sys_ui_view_2cb0f8662f6b4010bae3ff1df699b666</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:35:46</sys_updated_on><title>Student View</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-57563085</payload_hash>
+        <record_name>Student View</record_name>
+        <reverted_from/>
+        <source>ee471b712fe30010bae3ff1df699b671</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 08:35:46</sys_created_on>
+        <sys_id>a0b0f8662f6b4010bae3ff1df699b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170e7a26e950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 08:35:46</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>e8b0f866f06b40100ac0f9367462b0bf</update_guid>
+        <update_guid_history>e8b0f866f06b40100ac0f9367462b0bf:-57563085</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 13:24:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>12e4f0503a4f462382691944044e6391</sys_id>
+        <sys_metadata>2cb0f8662f6b4010bae3ff1df699b666</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student View</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_scope_delete display_value="">3b2a51b679ed41208f25be23162002a4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_2cb0f8662f6b4010bae3ff1df699b666</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_2cb0f8662f6b4010bae3ff1df699b666">a0b0f8662f6b4010bae3ff1df699b6c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 13:24:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

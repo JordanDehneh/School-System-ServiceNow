@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Kid" max_length="40" name="x_468004_school_sy_kid" sizeclass="2" type="collection">
+        <element choice="3" default="bus" label="How does he/she go to school?" mandatory="true" max_length="40" name="how_does_he_she_go_to_school" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bus" sequence="0" value="bus"/>
+                <element inactive_on_update="false" label="By Parent" sequence="1" value="by_parent"/>
+            </choice>
+        </element>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Parent" mandatory="true" max_length="32" name="parent" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Area" max_length="40" name="u_area_1" type="string" use_dependent_field="true"/>
+        <element attributes="encode_utf8=false" label="Has Car?" max_length="32" name="u_has_car_3" reference="sys_user" type="reference"/>
+        <element label="Has Car?" max_length="40" name="u_has_car_4" read_only="true" type="boolean"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+        <index name="index2">
+            <element name="u_has_car_3"/>
+        </index>
+    </element>
+</database>

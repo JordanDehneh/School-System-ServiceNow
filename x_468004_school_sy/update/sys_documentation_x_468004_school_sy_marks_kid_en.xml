@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="kid" label="Kid" language="en" table="x_468004_school_sy_marks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>kid</element>
+            <help/>
+            <hint/>
+            <label>Kid</label>
+            <language>en</language>
+            <name>x_468004_school_sy_marks</name>
+            <plural>Kids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:30:41</sys_created_on>
+            <sys_id>028fac262f6b4010bae3ff1df699b68d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Kid</sys_name>
+            <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+            <sys_update_name>sys_documentation_x_468004_school_sy_marks_kid_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:30:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

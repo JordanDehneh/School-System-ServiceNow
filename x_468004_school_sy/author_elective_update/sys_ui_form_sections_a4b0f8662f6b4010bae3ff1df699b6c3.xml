@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="a4b0f8662f6b4010bae3ff1df699b6c3" sys_domain="global" table="x_468004_school_sy_marks" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_468004_school_sy_marks</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 08:35:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4b0f8662f6b4010bae3ff1df699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_468004_school_sy_marks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a4b0f8662f6b4010bae3ff1df699b6c3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 08:35:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="">2cb0f8662f6b4010bae3ff1df699b666</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="School System">08969b712fe30010bae3ff1df699b6d5</application>
+        <file_path/>
+        <instance_id>2eec12d5db6b97004c1ff70fbf9619c4</instance_id>
+        <instance_name>dev67257</instance_name>
+        <name>sys_ui_form_sections_a4b0f8662f6b4010bae3ff1df699b6c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="a4b0f8662f6b4010bae3ff1df699b6c3" sys_domain="global" table="x_468004_school_sy_marks" version="3"><sys_ui_form action="INSERT_OR_UPDATE"><name>x_468004_school_sy_marks</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 08:35:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a4b0f8662f6b4010bae3ff1df699b6c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_468004_school_sy_marks</sys_name><sys_overrides/><sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package><sys_policy/><sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope><sys_update_name>sys_ui_form_sections_a4b0f8662f6b4010bae3ff1df699b6c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 08:35:47</sys_updated_on><sys_user/><view display_value="">2cb0f8662f6b4010bae3ff1df699b666</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1058314214</payload_hash>
+        <record_name>Marks</record_name>
+        <reverted_from/>
+        <source>ee471b712fe30010bae3ff1df699b671</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 13:24:37</sys_created_on>
+        <sys_id>456c3e722f630010bae3ff1df699b6f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170edd13a2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 13:24:37</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>8d6c3e724f630010d74d1a1fc02a9ef1</update_guid>
+        <update_guid_history>8d6c3e724f630010d74d1a1fc02a9ef1:1058314214,4d6c3e72756300103feac910a41867e6:-2111884002,e4b0f866156b4010b694edb78ce7f5c7:2089068808,a4b0f8668c6b401050fb6cea9031c9c4:1435683271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 13:24:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>0ed1043082b4417abeeb0785129da129</sys_id>
+        <sys_metadata>a4b0f8662f6b4010bae3ff1df699b6c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_468004_school_sy_marks</sys_name>
+        <sys_package display_value="School System" source="x_468004_school_sy">08969b712fe30010bae3ff1df699b6d5</sys_package>
+        <sys_parent display_value="Marks">790ea8a22f6b4010bae3ff1df699b64c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="School System">08969b712fe30010bae3ff1df699b6d5</sys_scope>
+        <sys_scope_delete display_value="">3b2a51b679ed41208f25be23162002a4</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_a4b0f8662f6b4010bae3ff1df699b6c3</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_a4b0f8662f6b4010bae3ff1df699b6c3">456c3e722f630010bae3ff1df699b6f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 13:24:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
